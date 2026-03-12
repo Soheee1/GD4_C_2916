@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState, useEffect } from "react";
-import GameBoard from "@/components/gameboard";
-import ScoreBoard from "@/components/scoreboard";
+import GameBoard from "@/components/GameBoard";
+import ScoreBoard from "@/components/ScoreBoard";
 
 import { GiCardJoker } from 'react-icons/gi';
 import { FaAppleAlt, FaLemon, FaHeart, FaStar } from "react-icons/fa";
